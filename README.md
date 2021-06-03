@@ -8,6 +8,7 @@ C-Mask is an app that can detect whether people are wearing masks correctly. The
 
 ### Dependencies
 * Retrofit
+* Firebase
 * Picasso
 * Glide
 * Circle Image View
