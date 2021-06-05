@@ -7,9 +7,9 @@ C-Mask is an app that can detect whether people are wearing masks correctly. The
 ## Getting Started
 
 ## Demo
-| Splashscreen                                                                                                    | Home                                                                                                   |
-| -----                                                                                                           | ---                                                                                                     |
-| ![wa1](https://user-images.githubusercontent.com/72365761/120883665-ab3ef500-c608-11eb-9717-c4b9e8d7195a.gif)   | https://user-images.githubusercontent.com/72365761/120883534-eb51a800-c607-11eb-975f-13d8462f8b70.mp4 |
+| Splashscreen                                                                                                    | Home                                                                                                                                                   |
+| -----                                                                                                           | ---                                                                                                                                                     |
+| ![wa1](https://user-images.githubusercontent.com/72365761/120883665-ab3ef500-c608-11eb-9717-c4b9e8d7195a.gif)   | ![wa2](https://user-images.githubusercontent.com/72365761/120884862-eb55a600-c60f-11eb-8f23-5b1780e75b5a.gif) |
 
 
 ### Dependencies
