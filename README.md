@@ -34,10 +34,9 @@ Minimum Android Version is Lolipop (5.0)
 | Splashscreen                                                                                                  | Home                                                                                                          | All Photos                                                                                                    |
 | -----                                                                                                         | ---                                                                                                           | ---                                                                                                           |
 | ![wa1](https://user-images.githubusercontent.com/72365761/120883665-ab3ef500-c608-11eb-9717-c4b9e8d7195a.gif) | ![wa2](https://user-images.githubusercontent.com/72365761/120884862-eb55a600-c60f-11eb-8f23-5b1780e75b5a.gif) | ![wa3](https://user-images.githubusercontent.com/72365761/120885881-6b323f00-c615-11eb-966c-41f11d20ccd6.gif) |
-
+| -----                                                                                                         | ---                                                                                                           | ---                                                                                                           |
 | Result No Mask                                                                                                | Result Correctly Masked                                                                                       | About us                                                                                                      | 
 | ![wa5](https://user-images.githubusercontent.com/72365761/120886007-ef84c200-c615-11eb-9916-414c685fdad7.gif) | ![wa6](https://user-images.githubusercontent.com/72365761/120886975-cb77af80-c61a-11eb-8da2-325cee433b24.gif) | ![wa4](https://user-images.githubusercontent.com/72365761/120885934-b2b8cb00-c615-11eb-8541-1edb8b75c738.gif) |
-
 
 ## License
 
