@@ -33,7 +33,8 @@ Minimum Android Version is Lolipop (5.0)
 
 | Result No Mask                                                                                                  | Result Uncovered Nose                                                                                          | Result Correctly Masked                                                                                        | Object Detection                                                                                                  |
 | -----                                                                                                           | -----                                                                                                          | -----                                                                                                          | -----                                                                                                             |
-| ![wa_10](https://user-images.githubusercontent.com/72365761/121075113-fd496b80-c7fe-11eb-9767-5f18b54a3773.gif) | ![wa11](https://user-images.githubusercontent.com/72365761/121075031-de4ad980-c7fe-11eb-9649-b342a8c854f2.gif) | ![w90](https://user-images.githubusercontent.com/72365761/121080656-e4908400-c805-11eb-8237-8e184e1b19ef.gif)  | ![wa_133](https://user-images.githubusercontent.com/72365761/121157350-ad58bc00-c873-11eb-91f7-404fd32f65be.gif)  |
+| ![wa_10](https://user-images.githubusercontent.com/72365761/121075113-fd496b80-c7fe-11eb-9767-5f18b54a3773.gif) | ![wa11](https://user-images.githubusercontent.com/72365761/121075031-de4ad980-c7fe-11eb-9649-b342a8c854f2.gif) | ![w90](https://user-images.githubusercontent.com/72365761/121080656-e4908400-c805-11eb-8237-8e184e1b19ef.gif)  | ![wa_133](https://user-images.githubusercontent.com/70441512/121181468-3da2fb00-c88c-11eb-98f4-8ad94089bc65.gif)  |
+
 
 
 ## License
